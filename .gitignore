@@ -1,0 +1,3 @@
+# entorno y caché
+.venv/
+__pycache__/
